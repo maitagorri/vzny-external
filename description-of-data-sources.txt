@@ -1,0 +1,17 @@
+*NYC injury and fatality shapefiles: 
+    -http://www.nyc.gov/html/dot/downloads/misc/injury_all_monthly_shapefile.zip
+    -http://www.nyc.gov/html/dot/downloads/misc/fatality_all_monthly_shapefile.zip
+    
+*NYPD precinct shapefile w/ summary information:
+    -http://www.nyc.gov/html/dot/downloads/misc/summary_police_precincts_shapefile.zip
+    
+*FHWA HPMS Public Release of Geospatial Data in Shapefile Format:
+    -https://www.fhwa.dot.gov/policyinformation/hpms/shapefiles.cfm
+
+*NYC Parking violations
+    -2016: https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2016/kiv2-tbus
+    -2017: https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx
+    
+**FUTURE ANALYSIS:
+*NYC Moving violations -- many separate files, better to scrape
+    -http://www1.nyc.gov/site/nypd/stats/traffic-data/traffic-data-moving.page
